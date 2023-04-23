@@ -1,5 +1,5 @@
 # Wisps
-San Jose State Univ. Fall 2022 - Intro to Game Studies (ART/CS108) - Unity Project <br><br>
+San Jose State Univ. Fall 2022 - Intro to Game Studies (ART/CS108) - Game Prototype <br><br>
 
 
 **Game:** *Wisps* 
