@@ -8,9 +8,9 @@ San Jose State Univ. Fall 2022 - Intro to Game Studies (ART/CS108) - Game Protot
 
 **Designer:** Doeun Kim
 
-**Programmer:** Sophia Singh
+**Programmer:** Sophia Singh, Doeun Kim
 
-**Artist:** Doeun Kim
+**Artist:** Doeun Kim, Sophia Singh
 
 *Wisps* is a 2D platformer game based on the movie *Brave*. The game character, Merida goes around and collects what is called "Wisps," which looks like a little blue soul. The winning condition of this game is to collect the most Wisps. <br><br>
 
